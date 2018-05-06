@@ -1,0 +1,8 @@
+{
+  "name": "partyon",
+  "app_id": "47363cc4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
